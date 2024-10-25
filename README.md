@@ -25,8 +25,15 @@
 - GameRecordManager클래스<br>
   -각 판당 시도 횟수 기록<br>
 
+- 실행시 모습<br>
+ ![image](https://github.com/user-attachments/assets/26bb3b1b-9b88-46f4-b4ce-1891c7614326)<br>
+ 
+- 난이도 설정<br>
+![image](https://github.com/user-attachments/assets/1ae92cf3-e4d4-43d1-be0b-f985b4097536)<br>
+
+- 시도횟수 기록<br>
+ ![image](https://github.com/user-attachments/assets/0a0f91df-53ad-41e8-bcc3-3858008ff435)<br>
+ ![image](https://github.com/user-attachments/assets/200a19f3-eabc-4ec1-a1fd-81e83e90ad81)
 
  
-
-  
 
